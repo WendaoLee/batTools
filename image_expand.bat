@@ -2,7 +2,7 @@
 
 rem Coded By Wendaolee,a dumb script used to expand picture-files' Byte without changing image itself.
 rem Do hope it can help someone who in need nervously
-rem Well,i guess such a dumb script no one would like to Crtl+C|Crtl+V and release with its name,would it?
+rem Well,i guess such a dumb script no one would like to Crtl+C、Crtl+V and release with its name,would it?
 
 :set utf-8、sourcefilefolder
 chcp 65001
