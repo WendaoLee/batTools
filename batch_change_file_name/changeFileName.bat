@@ -22,6 +22,6 @@ echo Re-WARNING:This bat won't copy origin file and all it does basing on your o
 
 pause
 
-for %%I IN (*) do rename %%I %%~nI_%NAME%%%~xI
+for %%I IN (*) do rename %%I %%~nI%NAME%%%~xI
 
 pause
