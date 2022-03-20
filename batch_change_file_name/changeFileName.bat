@@ -11,7 +11,7 @@ pause
 
 echo .
 echo 输入文件名应该增加的字符
-echo 示例：word.txt改名为word_test.txt，则输入test
+echo 示例：word.txt改名为word_test.txt，则输入_test
 set /p NAME="请输入 "
 
 pause
